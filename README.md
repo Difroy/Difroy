@@ -24,18 +24,10 @@
 <a href="https://www.linkedin.com/in/froylan-lamus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Froylan%20Lamus-blue?style=flat-square&logo=linkedin"></a>
 <a href="unifroy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-unifroy@gmail.com-blue?style=flat-square&logo=gmail"></a>  
   
-
-  
-  - 👋 Hi, I’m @Difroy
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning and delving into technology like Spring/Angular
-- 💞️ I’m looking to collaborate with a company that can hire me as an apprentice
-- 📫 How to reach me...linkedin profile is available on GItHub
-- 😄 Pronouns: ... I'm  Froylan
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Difroy&show_icons=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Difroy&label=Profile%20views&color=0e75b6&style=flat" alt="Difroy" /> </p>
 
 
 
-<!---
-Difroy/Difroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
