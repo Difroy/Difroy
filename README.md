@@ -20,7 +20,9 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=XAMPP)
  
- 
+ ### Contattami
+<a href="https://www.linkedin.com/in/froylan-lamus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Froylan%20Lamus-blue?style=flat-square&logo=linkedin"></a>
+<a href="unifroy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-unifroy@gmail.com-blue?style=flat-square&logo=gmail"></a>  
   
 
   
