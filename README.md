@@ -7,7 +7,7 @@
 - Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità 
 - Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e struttture dati per creare sistemi scalabili, affidabili e performanti.
 
-### Technologies
+### Tecnologie
  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
