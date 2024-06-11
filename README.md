@@ -1,6 +1,7 @@
+
 <h1> Hello! I'm Froy <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="36px">:rocket: <h1> 
-  <h2>Junior Full Stack Developer 🎨</h2>
- 
+<h2>Jr. Full Stack Developer 🎨</h2>
+
 
 
   ### About Me
