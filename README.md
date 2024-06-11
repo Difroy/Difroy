@@ -1,5 +1,5 @@
-<h1> Hello! I'm Froy <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h1>
-
+<h1> Hello! I'm Froy <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h1>:rocket:
+<h2>Junior Full Stack Developer 🎨</h2>
 - 👋 Hi, I’m @Difroy
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning and delving into technology like Spring/Angular
