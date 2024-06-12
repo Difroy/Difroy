@@ -1,16 +1,45 @@
 
-<h1> Hello! I'm Froy <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="36px">:rocket: <h1> 
+<h1> Ciao! Io sono Froy <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="36px">:rocket: <h1> 
 
 
 <h2>Jr. Full Stack Developer  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  </h2>
 
 
 
-  ### Su di me 
-- Ho 22 anni e sono di Caserta, Campania, Italia.
-- Sono un Jr. Full Stack Developer con tendenza nel back-end. 
-- Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità 
-- Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e struttture dati per creare sistemi scalabili, affidabili e performanti.
+  ### Su di me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ ```javascript
+const Froy = {
+    pronouns: "He/Him",
+    age: "22 y/o",
+    askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
+    technologies: {
+        backEnd: {
+            js: ["Node"],
+            Java: ["Java"],
+            Framework: ["Spring"]
+        },
+        frontEnd: {
+            html: ["HTML"],
+            css: ["CSS"],
+            js: ["JavaScript"],
+            framework: ["Bootstrap", "Thymeleaf", "Angular"]
+        },
+        devOps: ["Docker"],
+        databases: ["MySQL"],
+        misc: ["XAMPP", "GitHub", "Eclipse", "phpMyAdmin"]
+    },
+    architecture: ["PWA", "SPA"],
+    currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
+    preferences: "Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e strutture dati per creare sistemi scalabili, affidabili e performanti.",
+    languages: {
+        spagnolo: "Madrelingua",
+        italiano: "Avanzato",
+        inglese: "Intermedio"
+    }
+};
+
+```
+
 
 ### Tecnologie <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height= 20> 
  
@@ -20,7 +49,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Spring Boot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=Spring-boot)
+  ![Spring Boot](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
   ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=XAMPP)
