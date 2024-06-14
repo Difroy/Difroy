@@ -1,5 +1,5 @@
 
-<h1> Ciao! Io sono Froy <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="36px"> 🚀</h1> 
+<h1> Ciao! Io sono Froy <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="36px"> </h1> 
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Difroy&theme=dark&border_radius=5&locale=it&date_format=j%20M%5B%20Y%5D&card_height=205" alt="GitHub Streak" />
