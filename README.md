@@ -25,7 +25,7 @@ const Froy = {
         backEnd: {
             Js: ["Node"],
             Java: ["Java"],
-            SAP: ["ABAP"],
+            SapModule: ["ABAP"],
             Framework: ["Spring"]
         },
         frontEnd: {
@@ -36,8 +36,8 @@ const Froy = {
         },
         devOps: ["Docker"],
         databases: ["MySQL"],
-        misc: ["XAMPP", "GitHub", "Eclipse", "phpMyAdmin"]
-        sapModules: ["FI", "MM"]
+        misc: ["XAMPP", "GitHub", "Eclipse", "phpMyAdmin"],
+        SapModule: ["FI", "MM"]
     },
     architecture: ["PWA", "SPA"],
     currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
