@@ -23,8 +23,9 @@ const Froy = {
     askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            Js: ["Node"],
             Java: ["Java"],
+            SAP: ["ABAP"],
             Framework: ["Spring"]
         },
         frontEnd: {
@@ -36,6 +37,7 @@ const Froy = {
         devOps: ["Docker"],
         databases: ["MySQL"],
         misc: ["XAMPP", "GitHub", "Eclipse", "phpMyAdmin"]
+        sapModules: ["FI", "MM"]
     },
     architecture: ["PWA", "SPA"],
     currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
