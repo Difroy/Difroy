@@ -63,7 +63,7 @@ const Froy = {
   <img src="https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf" alt="Thymeleaf"/>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=XAMPP" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=ABAP" alt="ABAP"/>
+  <img src="https://img.shields.io/badge/-ABAP-333333?style=flat&logo=ABAP" alt="ABAP"/>
 </div>
  
 <h2>Contattami <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70" heigth= 20 style="margin-left: 200px;"></h2>
