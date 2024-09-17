@@ -60,7 +60,7 @@ const Froy = {
   <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular" alt="Angular"/>
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring" alt="Spring"/>
+  <img src="https://img.shields.io/badge/-Spring-333333?style=flat&logo=SpringBoot" alt="SpringBoot"/>
   <img src="https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf" alt="Thymeleaf"/>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=XAMPP" alt="XAMPP"/>
