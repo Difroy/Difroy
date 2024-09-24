@@ -28,8 +28,8 @@ const Froy = {
         frontEnd: {
             html: ["HTML"],
             css: ["CSS"],
-            js: ["JavaScript"],
-            framework: ["Bootstrap", "Thymeleaf"]
+            js: ["JavaScript","TypeScript"],
+            framework: ["Bootstrap", "Thymeleaf","Angular"]
         },
         devOps: ["Docker"],
         databases: ["MySQL"],
