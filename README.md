@@ -29,7 +29,7 @@ const Froy = {
             html: ["HTML"],
             css: ["CSS"],
             js: ["JavaScript","TypeScript"],
-            framework: ["Bootstrap", "Thymeleaf","Angular"]
+            framework: ["Bootstrap", "Thymeleaf","Angular", "Vue.js"]
         },
         devOps: ["Docker"],
         databases: ["MySQL"],
