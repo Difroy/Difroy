@@ -4,7 +4,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Difroy&theme=dark&border_radius=5&locale=it&date_format=j%20M%5B%20Y%5D&card_height=205" alt="GitHub Streak"/>
 </p>
 
-<h2 >Jr. Full Stack Developer</h2>
+<h2 >Jr. Software Developer</h2>
 
 
 
