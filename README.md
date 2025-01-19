@@ -32,7 +32,7 @@ const Froy = {
             framework: ["Bootstrap", "Thymeleaf","Angular", "Vue.js"]
         },
         devOps: ["Docker"],
-        databases: ["MySQL"],
+        databases: ["MySQL", "PostgreSQL"],
         misc: ["XAMPP", "GitHub", "Eclipse", "phpMyAdmin"],
         SapModule: ["FI", "MM"]
     },
