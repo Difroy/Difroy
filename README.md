@@ -22,6 +22,7 @@ const Froy = {
         backEnd: {
             Js: ["Node"],
             Java: ["Java"],
+            CSharp: ["C#", "Xamarin"],
             SapModule: ["ABAP"],
             Framework: ["Spring"]
         },
@@ -37,7 +38,7 @@ const Froy = {
         SapModule: ["FI", "MM"]
     },
     architecture: ["PWA", "SPA"],
-    currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
+    currentFocus: "Attualmente sto ampliando le mie competenze imparando C# e lo sviluppo mobile con Xamarin",
     preferences: "Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e strutture dati per creare sistemi scalabili, affidabili e performanti.",
     languages: {
         spagnolo: "Madrelingua",
@@ -65,15 +66,26 @@ const Froy = {
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=XAMPP" alt="XAMPP"/>
   <img src="https://img.shields.io/badge/-SAP-333333?style=flat&logo=SAP" alt="SAP"/>
+  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120" alt="C#"/>
+  <img src="https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin&logoColor=3498DB" alt="Xamarin"/>
 </div>
+
+<h2> Progetti in Corso 🚀 </h2>
+- 📱 Sviluppo di applicazioni mobile cross-platform con Xamarin
+- 🌱 Apprendimento del framework .NET
  
 <h2>Contattami <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70" heigth= 20 style="margin-left: 200px;"></h2>
 <div>
 <a href="https://www.linkedin.com/in/froylan-lamus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Froylan%20Lamus-blue?style=flat-square&logo=linkedin"></a>
 <a href="unifroy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-unifroy@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Difroy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Difroy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="difroy" /></p>
+
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Difroy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="difroy" /></p>
+
+
+    
 
 <p> <img src="https://komarev.com/ghpvc/?username=Difroy&label=Profile%20views&color=0e75b6&style=flat" alt="Difroy" /> </p>
