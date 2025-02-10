@@ -22,7 +22,7 @@ const Froy = {
         backEnd: {
             Js: ["Node"],
             Java: ["Java"],
-            CSharp: ["C#", "Xamarin"],
+            CSharp: ["C#", ".NET MAUI"],
             SapModule: ["ABAP"],
             Framework: ["Spring"]
         },
@@ -67,7 +67,7 @@ const Froy = {
   <img src="https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=XAMPP" alt="XAMPP"/>
   <img src="https://img.shields.io/badge/-SAP-333333?style=flat&logo=SAP" alt="SAP"/>
   <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120" alt="C#"/>
-  <img src="https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin&logoColor=3498DB" alt="Xamarin"/>
+  <img src="https://img.shields.io/badge/-.NET%20MAUI-333333?style=flat&logo=dotnet&logoColor=512BD4" alt=".NET MAUI"/>
 </div>
 
 <h2> Progetti in Corso 🚀 </h2>
