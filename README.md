@@ -78,11 +78,18 @@ const Froy = {
 <div>
 <a href="https://www.linkedin.com/in/froylan-lamus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Froylan%20Lamus-blue?style=flat-square&logo=linkedin"></a>
 <a href="unifroy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-unifroy@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Difroy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Difroy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="difroy" /></p>
-
 </div>
+  <div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Difroy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Difroy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="difroy" /></p>
+</div>
+ 
+  
+
+
+
+
 
 
 
