@@ -38,7 +38,7 @@ const Froy = {
         SapModule: ["FI", "MM"]
     },
     architecture: ["PWA", "SPA"],
-    currentFocus: "Attualmente sto ampliando le mie competenze imparando C# e lo sviluppo mobile con Xamarin",
+    currentFocus: "Attualmente sto ampliando le mie competenze imparando C# e lo sviluppo mobile con .NET MAUI",
     preferences: "Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e strutture dati per creare sistemi scalabili, affidabili e performanti.",
     languages: {
         spagnolo: "Madrelingua",
