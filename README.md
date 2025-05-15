@@ -4,7 +4,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Difroy&theme=dark&border_radius=5&locale=it&date_format=j%20M%5B%20Y%5D&card_height=205" alt="GitHub Streak"/>
 </p>
 
-<h2 >Jr. Software Developer</h2>
+<h2>Software Developer</h2>
 
 
 
@@ -71,7 +71,7 @@ const Froy = {
 </div>
 
 <h2> Progetti in Corso 🚀 </h2>
-- 📱 Sviluppo di applicazioni mobile cross-platform con Xamarin
+- 📱 Sviluppo di applicazioni mobile cross-platform con C# e .NET MAUI
 - 🌱 Apprendimento del framework .NET
  
 <h2>Contattami <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70" heigth= 20 style="margin-left: 200px;"></h2>
