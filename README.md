@@ -16,7 +16,7 @@
  ```javascript
 const Froy = {
     pronouns: "He/Him",
-    age: "23 y/o",
+    age: "24 y/o",
     askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
     technologies: {
         backEnd: {
