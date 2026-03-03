@@ -23,6 +23,7 @@ const Froy = {
             Js: ["Node"],
             Java: ["Java"],
             CSharp: ["C#", ".NET MAUI"],
+            Python: ["Python"]
             SapModule: ["ABAP"],
             Framework: ["Spring"]
         },
