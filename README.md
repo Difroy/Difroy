@@ -69,7 +69,7 @@ const Froy = {
   <img src="https://img.shields.io/badge/-SAP-333333?style=flat&logo=SAP" alt="SAP"/>
   <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120" alt="C#"/>
   <img src="https://img.shields.io/badge/-.NET%20MAUI-333333?style=flat&logo=dotnet&logoColor=512BD4" alt=".NET MAUI"/>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=512BD4" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
 </div>
 
 <h2> Progetti in Corso 🚀 </h2>
